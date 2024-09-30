@@ -1,0 +1,8 @@
+用于生成墙预览图的脚本。
+以下是main.py的指令设计：
+[_di]查看全部文件目录
+[_su]查看资源文件目录
+[_sw [path]]将39*26的.png文件导入为资源文件
+[_vw [path]]预览资源文件
+[_wl [terrain] [texture] [path]]图形生成
+[_en [path_ori] [int] [path_enl]]以指定的倍数放大图形
